@@ -1,1 +1,0 @@
-thisphpfileissothatthiswillrunonheroku,notbecauseiknownaythinaboutheroku.infact,idont.riplmao;-;
