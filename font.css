@@ -22,3 +22,20 @@ p {
 	font-family: Calibri;
 	font-weight: 100;
 }
+
+@font-face {
+	font-family: 'Agency FB';
+	src:url("fonts/agency/Agency_FB.ttf");
+	font-style: normal;
+	font-weight: 100;
+}
+
+h3 {
+	font-family: Agency FB;
+	font-weight: 100;
+}
+
+h2 {
+	font-family: Agency FB;
+	font-weight: 100;
+}
